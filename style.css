@@ -16,12 +16,14 @@ body {
 
 .links {
     padding: 0;
+    text-decoration: none;
+    color: black;
     margin: 0;
     font-size: 13px;
 }
 
 .afe {
-    border: 1px solid;
+    border: 0 solid;
     font-size: 22px;
     border-radius: 4px;
     padding-left: 4px;
