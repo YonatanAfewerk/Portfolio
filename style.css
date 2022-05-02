@@ -1,3 +1,6 @@
+body {
+    font-family: system-ui;
+}
 .name {
     text-align: center;
     
@@ -5,13 +8,24 @@
 
 .name_{
     font-size: 25px;
-    color: black;
+    color: #1666C5;
     padding: 0;
     margin: 0;
+    font-weight: bold;
 }
 
 .links {
     padding: 0;
     margin: 0;
     font-size: 13px;
+}
+
+.afe {
+    border: 1px solid;
+    font-size: 22px;
+    border-radius: 4px;
+    padding-left: 4px;
+    padding-right: 4px;
+    color: white;
+    background-color: #1666C5;
 }
