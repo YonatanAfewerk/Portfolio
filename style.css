@@ -3,14 +3,17 @@
 
 body {
     font-family: system-ui;
+    background-image: url(/host/Image/mountains-6839521_1920.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
 }
 .name {
     text-align: center;
 }
 
 .name_{
-    font-size: 25px;
-    color: #1666C5;
+    font-size: 24px;
+    color: white;
     padding: 0;
     margin: 0;
     font-weight: bold;
@@ -21,7 +24,7 @@ body {
     font-family: 'Roboto Mono',
     monospace;
     text-decoration: none;
-    color: black;
+    color: white;
     margin: 0;
     font-size: 13px;
 }
@@ -30,9 +33,9 @@ body {
     border: 0 solid;
     font-size: 22px;
     border-radius: 4px;
-    padding-left: 4px;
+    padding-left: 5px;
     padding-right: 4px;
     color: white;
-    background-color: #1666C5;
+    background-color: #08214076;
     
 }
